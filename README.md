@@ -1,107 +1,107 @@
-# OSEANIC_STORE
-# oseanic_ - Thrift Store E-Commerce
+# OSEANIC STORE
 
-# Business Overview
+> Thrift Fashion, Modern Experience.
 
-## Nama Bisnis
-
-**oseanic_**
-
----
-
-# Deskripsi Bisnis
-
-oseanic_ merupakan website e-commerce yang bergerak di bidang penjualan pakaian thrift (second-hand) berkualitas. Website ini menyediakan berbagai pilihan fashion seperti jaket, hoodie, sweater, kemeja, jeans, tas, sepatu, dan aksesoris dengan harga yang lebih terjangkau dibandingkan produk baru.
-
-Website dibuat untuk memberikan pengalaman belanja online yang mudah, aman, serta menarik bagi pelanggan melalui tampilan modern, fitur lengkap, dan proses transaksi yang sederhana.
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-web-blue)
+![License](https://img.shields.io/badge/license-educational-lightgrey)
 
 ---
 
-# Value Proposition
+## Deskripsi Project
 
-Nilai utama yang ditawarkan oseanic_ adalah:
+**OSEANIC STORE** adalah website e-commerce thrift fashion modern yang menyediakan berbagai produk pakaian dan aksesoris vintage premium, mulai dari jacket, shirt, jeans, hoodie, sweater, shoes, bag, hingga accessories. Website ini dirancang dengan tampilan modern, responsif, dan mudah digunakan, sehingga pengguna dapat menjelajahi katalog produk, melakukan pencarian, hingga menyelesaikan proses checkout dengan pengalaman yang nyaman di berbagai perangkat.
 
-- Produk thrift berkualitas dengan harga terjangkau.
-- Setiap produk telah melalui proses seleksi sehingga layak digunakan.
-- Tampilan website modern dan responsif.
-- Proses pembelian yang mudah.
-- Mendukung konsep sustainable fashion dengan mengurangi limbah pakaian.
+OSEANIC STORE hadir sebagai solusi belanja pakaian bekas berkualitas dengan pendekatan digital yang lebih rapi, terpercaya, dan estetik dibandingkan platform thrift konvensional pada umumnya.
 
 ---
 
-# Target Market & Segmentasi Pelanggan
+## Value Proposition
+
+OSEANIC STORE menawarkan sejumlah keunggulan yang menjadi nilai jual utama bagi pengguna:
+
+- **Produk Thrift Premium** — kurasi pakaian dan aksesoris vintage berkualitas tinggi
+- **Harga Terjangkau** — thrift fashion dengan harga yang ramah di kantong
+- **Desain Website Modern** — tampilan estetik dengan nuansa vintage yang khas
+- **Responsif** — dapat diakses dengan nyaman di desktop, tablet, maupun smartphone
+- **Pengalaman Belanja Mudah** — navigasi sederhana dan intuitif
+- **Checkout Sederhana** — proses pembayaran yang cepat dan tidak rumit
+- **Wishlist** — simpan produk favorit untuk dibeli di kemudian hari
+- **Keranjang Belanja** — kelola produk sebelum melakukan pembayaran
+- **Dashboard Admin** — kelola produk, pesanan, dan pelanggan secara terpusat
+- **Multi Language** — mendukung Bahasa Indonesia dan Bahasa Inggris
+- **Dark Mode** — kenyamanan tampilan sesuai preferensi pengguna
+- **Analytics Dashboard** — pantau performa penjualan secara real-time
+
+---
 
 ## Target Market
 
-- Remaja
+OSEANIC STORE menyasar segmen pasar yang memiliki ketertarikan terhadap fashion vintage dan gaya hidup berkelanjutan, di antaranya:
+
 - Mahasiswa
+- Generasi Z
 - Pekerja muda
-- Pecinta fashion thrift
-- Pengguna internet yang gemar berbelanja online
+- Pecinta fashion vintage
+- Komunitas sustainable fashion
+- Pengguna dengan rentang usia 17–35 tahun
+
+---
 
 ## Segmentasi Pelanggan
 
-### Demografis
+**Demografis**
+Usia 17–35 tahun, pelajar hingga pekerja muda dengan pendapatan menengah, tanpa membedakan gender secara spesifik karena produk mencakup unisex.
 
-- Umur : 17–35 tahun
-- Laki-laki dan perempuan
-- Mahasiswa maupun pekerja
+**Geografis**
+Berfokus pada wilayah perkotaan dan sub-perkotaan di Indonesia dengan tingkat literasi digital dan akses internet yang tinggi.
 
-### Geografis
+**Psikografis**
+Konsumen yang peduli terhadap gaya hidup berkelanjutan (sustainable living), menyukai ekspresi diri melalui fashion, dan tertarik pada tren estetika vintage/retro.
 
-- Seluruh Indonesia
-
-### Psikografis
-
-- Menyukai fashion
-- Peduli terhadap lingkungan
-- Menginginkan produk berkualitas dengan harga terjangkau
-
-### Perilaku
-
-- Aktif menggunakan marketplace
-- Menyukai promo dan diskon
-- Sering mencari produk unik
+**Perilaku Konsumen**
+Terbiasa berbelanja online, aktif di media sosial, mencari produk unik dan personal, serta mempertimbangkan harga dan kualitas sebelum membeli.
 
 ---
 
-# Analisis Pasar
+## Analisis Pasar
 
-Tren fashion thrift di Indonesia terus mengalami peningkatan karena masyarakat mulai sadar akan pentingnya sustainable fashion dan ingin mendapatkan produk berkualitas dengan harga yang lebih murah.
+Tren thrift fashion di Indonesia menunjukkan pertumbuhan yang signifikan beberapa tahun terakhir, didorong oleh meningkatnya kesadaran masyarakat terhadap isu lingkungan dan gaya hidup sustainable. Kebiasaan belanja online yang semakin masif turut mendorong peluang bisnis di sektor ini.
 
-Selain itu, perkembangan e-commerce membuat penjualan thrift semakin mudah dijangkau oleh berbagai kalangan.
-
-## Kompetitor
-
-Beberapa kompetitor yang memiliki konsep serupa antara lain:
-
-- Carousell
-- Tinkerlust
-- Thrift lokal melalui Instagram
-- Shopee Thrift Store
-- Tokopedia Thrift Shop
-
-Keunggulan oseanic_ dibandingkan kompetitor adalah tampilan website yang lebih sederhana, mudah digunakan, serta memiliki fitur admin untuk mengelola produk secara langsung.
+Pertumbuhan e-commerce di Indonesia membuka peluang besar bagi pelaku usaha thrift untuk memperluas jangkauan pasar tanpa harus bergantung pada toko fisik, sekaligus membangun identitas brand yang lebih kuat melalui platform digital.
 
 ---
 
-# Strategi Manajemen Produk & Katalog
+## Analisis Kompetitor
 
-Produk dikelompokkan berdasarkan kategori agar pelanggan lebih mudah mencari barang yang diinginkan.
+| Aspek | OSEANIC STORE | Carousell | Tinkerlust | Shopee | Tokopedia |
+|---|---|---|---|---|---|
+| Fokus Produk | Thrift & Vintage Premium | Umum (C2C) | Fashion Preloved | Umum | Umum |
+| Kurasi Produk | Terkurasi | Tidak terkurasi | Terkurasi | Tidak terkurasi | Tidak terkurasi |
+| Branding Vintage | Kuat & Konsisten | Minim | Sedang | Tidak ada | Tidak ada |
+| Fokus Niche | Ya | Tidak | Ya | Tidak | Tidak |
+| Dashboard Admin Khusus | Ya | Terbatas | Terbatas | Ya | Ya |
 
-Kategori produk meliputi:
+**Keunggulan OSEANIC STORE** terletak pada fokus niche di segmen thrift dan vintage, kurasi produk yang lebih rapi, serta identitas brand yang khas dan konsisten. Berbeda dengan marketplace umum seperti Shopee dan Tokopedia yang menjual berbagai kategori produk secara masif, OSEANIC STORE hadir dengan pengalaman belanja yang lebih personal dan terarah bagi pecinta fashion vintage.
+
+---
+
+## Katalog Produk
+
+Kategori produk yang tersedia di OSEANIC STORE:
 
 - Jacket
-- Hoodie
 - Shirt
-- Sweater
 - Jeans
+- Hoodie
+- Sweater
 - Shoes
 - Bag
 - Accessories
 
-Setiap produk memiliki informasi berupa:
+Setiap produk dilengkapi dengan informasi lengkap, meliputi:
 
+- Foto produk
 - Nama produk
 - Harga
 - Diskon
@@ -110,178 +110,174 @@ Setiap produk memiliki informasi berupa:
 - Deskripsi produk
 - Ukuran
 - Kondisi produk
-- Foto produk berkualitas tinggi
-
-Visual produk dibuat menarik agar meningkatkan minat beli pelanggan.
 
 ---
 
-# Model Bisnis
+## Business Model
 
-oseanic_ menggunakan model bisnis **Business to Consumer (B2C)**.
+OSEANIC STORE menerapkan model bisnis **B2C (Business to Consumer)** dengan skema penjualan langsung kepada konsumen akhir melalui platform website.
 
-Pemilik toko menjual produk thrift secara langsung kepada pelanggan melalui website tanpa perantara.
+**Revenue Stream** utama berasal dari penjualan produk thrift secara langsung, dengan potensi pengembangan tambahan seperti biaya layanan (service fee) dan program membership di masa mendatang.
+
+**Strategi keuntungan** diperoleh melalui margin harga antara biaya kurasi produk thrift dengan harga jual, didukung oleh efisiensi operasional berbasis platform digital.
 
 ---
 
-# Revenue Stream
+## Strategi Harga
 
-Sumber pendapatan berasal dari:
+- **Competitive Pricing** — harga disesuaikan dengan kondisi pasar thrift fashion
+- **Diskon** — potongan harga berkala untuk menarik minat pembeli
+- **Promo** — penawaran khusus pada momen tertentu (hari besar, akhir bulan, dsb.)
+- **Harga Thrift Premium** — harga tetap kompetitif meski kualitas produk terjaga
 
-- Penjualan produk thrift
-- Penjualan produk unggulan
-- Promo musiman
+---
+
+## Strategi Promosi
+
+Promosi OSEANIC STORE dilakukan melalui berbagai kanal digital, di antaranya:
+
+- Instagram
+- TikTok
+- Facebook
+- Kerja sama dengan influencer
 - Flash Sale
-- Voucher pembelian
-
----
-
-# Strategi Harga
-
-Harga ditentukan berdasarkan:
-
-- Kondisi barang
-- Brand produk
-- Tingkat kelangkaan
-- Kualitas produk
-
-Rentang harga berkisar antara:
-
-Rp45.000 – Rp250.000
-
----
-
-# Strategi Promosi
-
-Strategi promosi yang digunakan:
-
-- Flash Sale
-- Voucher Diskon
-- Promo Member Baru
-- Gratis Ongkir
-- Promo Buy 2 Get 1
-- Media Sosial
+- Voucher
 - WhatsApp Marketing
 
 ---
 
-# Strategi Diskon
+## Checkout & Payment
 
-Website menyediakan beberapa jenis diskon seperti:
+Proses pembayaran pada OSEANIC STORE disimulasikan menggunakan **Midtrans Sandbox** sebagai payment gateway.
 
-- Diskon Persentase
-- Voucher Promo
-- Flash Sale
-- Gratis Ongkir
-- Promo Produk Pilihan
+**Alur Checkout:**
 
----
-
-# Proses Checkout
-
-Alur pembelian pada website:
-
-1. Memilih produk.
-2. Melihat detail produk.
-3. Menambahkan produk ke keranjang.
-4. Mengubah jumlah produk.
-5. Mengisi data pengiriman.
-6. Memilih metode pembayaran.
-7. Konfirmasi pesanan.
-8. Pesanan berhasil dibuat.
+1. Pengguna memilih produk dan menambahkannya ke keranjang belanja.
+2. Pengguna meninjau kembali produk di halaman keranjang.
+3. Pengguna mengisi data pengiriman.
+4. Pengguna memilih metode pembayaran melalui Midtrans Sandbox.
+5. Sistem memproses simulasi pembayaran.
+6. Setelah pembayaran berhasil, pesanan dikonfirmasi dan status transaksi diperbarui.
 
 ---
 
-# Simulasi Payment Gateway
+## SEO Strategy
 
-Website menggunakan simulasi payment gateway.
-
-Metode pembayaran yang tersedia:
-
-- Transfer Bank
-- QRIS
-- E-Wallet
-- **PayPal (Dummy Payment Gateway)**
-
-Pada project ini PayPal digunakan sebagai simulasi pembayaran dan belum terhubung dengan layanan pembayaran asli.
+- **Meta Title** dan **Meta Description** yang relevan pada setiap halaman
+- Penggunaan **Semantic HTML** agar struktur website mudah dipahami mesin pencari
+- Tampilan **Mobile Friendly**
+- **Fast Loading** untuk pengalaman pengguna yang optimal
+- **Keyword Optimization** sesuai istilah pencarian terkait thrift fashion
 
 ---
 
-# Rencana SEO
+## Security
 
-Strategi SEO yang direncanakan meliputi:
-
-- Penggunaan meta title dan meta description.
-- Struktur heading yang sesuai.
-- URL yang mudah dibaca.
-- Optimasi gambar.
-- Responsive Design.
-- Kecepatan loading website.
-- Penggunaan keyword seperti:
-  - thrift store
-  - baju thrift
-  - pakaian second hand
-  - thrift Indonesia
+- Validasi Form pada setiap input pengguna
+- Penyimpanan data sementara menggunakan Local Storage
+- Session Login untuk menjaga status autentikasi pengguna
+- Input Validation guna mencegah data tidak valid
+- Pencegahan XSS (Cross-Site Scripting)
+- Implementasi HTTPS untuk keamanan koneksi
 
 ---
 
-# Keamanan Website
+## Data Analytics
 
-Website menerapkan beberapa langkah keamanan seperti:
+Dashboard admin OSEANIC STORE dilengkapi dengan fitur analitik, meliputi:
 
-- Validasi input pengguna.
-- Login Admin.
-- Login User.
-- Penyimpanan data menggunakan Local Storage.
-- Validasi form.
-- Pembatasan akses Dashboard Admin.
-- Sanitasi data input pengguna.
-
----
-
-# Rencana Pemeliharaan
-
-Website akan dipelihara secara berkala dengan:
-
-- Update produk.
-- Perbaikan bug.
-- Backup data.
-- Update fitur.
-- Peningkatan performa website.
-- Optimasi keamanan.
+- Total Produk
+- Total Penjualan
+- Produk Terlaris
+- Total Pengguna
+- Revenue
+- Statistik Penjualan
+- Dashboard Admin interaktif
 
 ---
 
-# Rencana Penggunaan Data Analytics
-
-Website akan memanfaatkan data analytics untuk membantu pengambilan keputusan bisnis, seperti:
-
-- Produk yang paling banyak dilihat.
-- Produk paling sering dibeli.
-- Produk terlaris.
-- Jumlah pengunjung website.
-- Tingkat konversi pembelian.
-- Produk yang paling banyak dimasukkan ke wishlist.
-- Halaman yang paling sering dikunjungi.
-- Performa promo dan voucher.
-- Analisis perilaku pelanggan.
-
-Data tersebut dapat digunakan untuk menentukan strategi pemasaran, pengelolaan stok, serta pengembangan produk di masa mendatang.
-
----
-
-# Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 - Local Storage
-- Chart.js
 - Font Awesome
 - Google Fonts
+- Chart.js
+- Responsive Design
 
 ---
 
-# Penutup
+## Struktur Folder
 
-Website **oseanic_** dirancang sebagai platform e-commerce thrift modern yang menggabungkan aspek bisnis dan teknologi dalam satu sistem. Melalui fitur-fitur yang tersedia, website ini diharapkan mampu memberikan pengalaman berbelanja yang nyaman bagi pelanggan sekaligus memudahkan pengelolaan bisnis bagi admin.
+```
+OSEANIC_STORE/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── imagines/
+│   ├── Classic Oxford Shirt.jpg
+│   ├── Denim Trucker Jacket.jpg
+│   ├── Vintage Hoodie.jpg
+│   └── dst...
+```
+
+---
+
+## Cara Menjalankan Project
+
+1. Download repository.
+2. Extract file.
+3. Buka menggunakan Visual Studio Code.
+4. Jalankan menggunakan Live Server.
+5. Website siap digunakan.
+
+---
+
+## Fitur Website
+
+- [x] Responsive Design
+- [x] Home Page
+- [x] Product Catalog
+- [x] Product Detail
+- [x] Search Product
+- [x] Filter Product
+- [x] Shopping Cart
+- [x] Wishlist
+- [x] Checkout
+- [x] Multi Language
+- [x] Dark Mode
+- [x] Admin Dashboard
+- [x] Sales Analytics
+- [x] Product Management
+- [x] Customer Management
+- [x] Inventory Management
+- [x] Order History
+- [x] Contact
+- [x] FAQ
+- [x] WhatsApp Floating Button
+
+---
+
+## Pengembang
+
+**Nama:** Sani Apriani
+**Program Studi:** Administrasi Bisnis
+**Universitas:** Universitas Wanita Internasional
+**Project:** Final Project Mata Kuliah Komputer Aplikasi IT II (E-Commerce)
+
+---
+
+## Kesimpulan
+
+OSEANIC STORE merupakan wujud nyata penerapan konsep e-commerce dalam industri thrift fashion yang terus berkembang di Indonesia. Melalui desain yang modern, fitur yang lengkap, serta pendekatan bisnis yang terfokus pada segmen vintage dan sustainable fashion, website ini diharapkan mampu memberikan pengalaman belanja online yang lebih nyaman, terpercaya, dan berkesan bagi para penggunanya.
+
+Dari sisi bisnis, OSEANIC STORE membuka peluang yang menjanjikan mengingat tren thrift fashion yang terus meningkat, khususnya di kalangan generasi muda yang semakin peduli terhadap gaya hidup berkelanjutan. Ke depannya, project ini memiliki potensi untuk dikembangkan lebih lanjut, baik dari sisi fitur teknis seperti integrasi payment gateway yang lebih lengkap, sistem rekomendasi produk berbasis preferensi pengguna, maupun dari sisi bisnis melalui perluasan kategori produk dan kerja sama dengan komunitas fashion vintage yang lebih luas.
+
+Dengan fondasi yang telah dibangun, OSEANIC STORE berpotensi untuk terus tumbuh menjadi platform thrift fashion terpercaya yang relevan dengan kebutuhan pasar masa kini.
+
+---
+
+<p align="center">Dibuat dengan dedikasi oleh Sani Apriani — Universitas Wanita Internasional</p>
